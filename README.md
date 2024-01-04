@@ -14,3 +14,5 @@
   11.  Logic Apps
   12.  IaaS vs PaaS vs SaaS
   13.  Storages
+  14.  Azure Data Fundamentals
+  15.  Azure AI Fundamentals
